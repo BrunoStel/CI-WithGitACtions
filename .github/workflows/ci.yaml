@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: false
-          tags: brunostel/CI-WithGitACtions:latest
+          tags: brunostel/ci-gitactions:latest
